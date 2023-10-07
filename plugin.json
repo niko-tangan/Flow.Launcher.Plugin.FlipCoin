@@ -1,12 +1,12 @@
 {
     "ID": "1f46a1ac269f43b1986dabfc43a50164",
-    "ActionKeyword": "Flip",
+    "ActionKeyword": "flip",
     "Name": "FlipCoin",
     "Description": "Flips a coin heads or tails",
     "Author": "KwekKwekKid",
-    "Version": "1.00",
+    "Version": "1.01",
     "Language": "python",
-    "Website": "https://github.com/niko-tangan/Flow.Launcher.FlipCoin",
+    "Website": "https://github.com/niko-tangan/Flow.Launcher.Plugin.FlipCoin",
     "IcoPath": "icon.png",
     "ExecuteFileName": "main.py"
 }

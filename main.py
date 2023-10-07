@@ -6,7 +6,6 @@ paths = (".", "lib", "plugin")
 sys.path = [str(plugindir / p) for p in paths] + sys.path
 
 from flowlauncher import FlowLauncher
-import webbrowser
 
 
 class CoinFlip(FlowLauncher):
